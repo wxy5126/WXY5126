@@ -1,5 +1,6 @@
 
 
+
 <div align="center">
 
 <h1>Xinyv Wang</h1>
@@ -40,10 +41,26 @@ I'm continuing to strengthen my programming skills and explore these topics thro
 
 ### 🛠️ Programming Skills
 
+**Programming Languages**
+
 <p>
-  <img src="https://img.shields.io/badge/Python-356B8C?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/R-50759A?style=flat-square&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/C%2B%2B-466D86?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-4F75B3?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/C%2B%2B-7355A6?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+</p>
+
+**Data Analysis & Visualization**
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-248C9F?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-4D5684?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-D47762?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-B77C35?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 ### ✉️ Contact
